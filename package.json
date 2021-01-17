@@ -1,0 +1,23 @@
+{
+  "name": "organizationscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "organizationScraping.js",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yishida05/organizationScraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yishida05/organizationScraping/issues"
+  },
+  "homepage": "https://github.com/Yishida05/organizationScraping#readme"
+}
